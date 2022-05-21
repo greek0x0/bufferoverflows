@@ -1,7 +1,7 @@
 import socket, struct
 
 
-host, port = '10.10.100.108', 1337
+host, port = '10.10.60.7', 1337
 
 command = b'OVERFLOW3 '
 
