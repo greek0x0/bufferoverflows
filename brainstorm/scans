@@ -1,0 +1,17 @@
+331 Anonymous access allowed, send identity (e-mail name) as password.
+Remote system type is Windows_NT. FTP code 230 Anon allowed
+Port 21 > Open cant get to any files
+was able to get files using:
+wget -m --no-passive ftp://anonymous:anonymous@$IP
+
+Port 9999 ? abyss? > Welcome to Brainstorm chat username?
+able to interact with the program
+Port 3389 > Remote Desktop 
+
+Tryhackme says theres more then 3 ports open, But its only returning 3 ports:
+performing UDP scan
+
+Buffer overflow maybe?
+Able to connect to program using telnet
+
+figure out crashing with the offset
