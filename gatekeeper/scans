@@ -1,0 +1,13 @@
+Discovered open port 135/tcp on 10.10.79.249 RPC
+Discovered open port 445/tcp on 10.10.79.249 SMB Found files including executable
+Discovered open port 139/tcp on 10.10.79.249 SMB communication with NETBIOS
+Port 31337 = Seems like a possble webserver
+Discovered open port 49152/tcp on 10.10.79.249 
+Discovered open port 3389/tcp on 10.10.79.249
+Discovered open port 49154/tcp on 10.10.79.249
+Discovered open port 31337/tcp on 10.10.79.249
+Discovered open port 49155/tcp on 10.10.79.249
+Discovered open port 49165/tcp on 10.10.79.249
+Discovered open port 49153/tcp on 10.10.79.249
+Discovered open port 49161/tcp on 10.10.79.249
+
